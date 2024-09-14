@@ -1,0 +1,24 @@
+latam-countries-api/
+├── go.mod                # Arquivo de módulos Go
+├── go.sum                # Arquivo de checksum das dependências
+├── cmd/
+│   └── latam-countries-api/
+│       └── main.go       # Ponto de entrada da aplicação
+├── internal/
+│   ├── handlers/
+│   │   └── country_handler.go  # Handlers para rotas de países
+│   ├── models/
+│   │   └── country.go          # Modelos de dados dos países
+│   ├── repositories/
+│   │   └── country_repository.go  # Implementação de acesso a dados
+│   └── services/
+│       └── country_service.go  # Lógica de negócios
+├── pkg/
+│   ├── middlewares/
+│   │   └── logging_middleware.go  # Middlewares (ex: logging)
+│   └── routers/
+│       └── router.go       # Configuração das rotas
+├── config/
+│   └── config.go           # Configuração da aplicação (e.g., variáveis de ambiente)
+└── data/
+    └── countries.json      # Arquivo JSON com dados dos países
