@@ -6,10 +6,10 @@
     "languages": ["es"],
     "currencies": ["ARS"],
     "economic_strengths": ["Agriculture", "Manufacturing", "Tourism"],
-    "total_gdp": "640.0 billion USD",
-    "gdp_per_capita": "14,000 USD",
-    "population": "45.4 million",
-    "area_sq_km": "2,780,400",
+    "total_gdp": 640000000000,
+    "gdp_per_capita": 14000,
+    "population": 45400000,
+    "area_sq_km": 2780400,
     "borders": [
       {
         "name": "Bolivia",
@@ -32,10 +32,10 @@
         "flag_url": "https://restcountries.com/v3.1/flags/uy.svg"
       }
     ],
-    "border_length_km": "9,376",
-    "inflation_rate": "60.0%",
-    "global_rank": "24th",
-    "latam_rank": "3rd",
+    "border_length_km": 9376,
+    "inflation_rate": 60.0,
+    "global_rank": 24,
+    "latam_rank": 3,
     "climates": ["Temperate", "Subtropical", "Arid"],
     "government_system": "Federal Republic",
     "current_leader": "Alberto Fernández"
@@ -47,10 +47,10 @@
     "languages": ["es", "qu", "ay"],
     "currencies": ["BOB"],
     "economic_strengths": ["Mining", "Agriculture", "Tourism"],
-    "total_gdp": "50.0 billion USD",
-    "gdp_per_capita": "4,000 USD",
-    "population": "11.5 million",
-    "area_sq_km": "1,098,581",
+    "total_gdp": 50000000000,
+    "gdp_per_capita": 4000,
+    "population": 11500000,
+    "area_sq_km": 1098581,
     "borders": [
       {
         "name": "Argentina",
@@ -73,10 +73,10 @@
         "flag_url": "https://restcountries.com/v3.1/flags/pe.svg"
       }
     ],
-    "border_length_km": "3,400",
-    "inflation_rate": "2.0%",
-    "global_rank": "95th",
-    "latam_rank": "12th",
+    "border_length_km": 3400,
+    "inflation_rate": 2.0,
+    "global_rank": 95,
+    "latam_rank": 12,
     "climates": ["Tropical", "Temperate", "Arid"],
     "government_system": "Unitary Presidential Republic",
     "current_leader": "Luis Arce"
@@ -93,10 +93,10 @@
       "Manufacturing",
       "Services"
     ],
-    "total_gdp": "2.0 trillion USD",
-    "gdp_per_capita": "9,500 USD",
-    "population": "213 million",
-    "area_sq_km": "8,515,767",
+    "total_gdp": 2000000000000,
+    "gdp_per_capita": 9500,
+    "population": 213000000,
+    "area_sq_km": 8515767,
     "borders": [
       {
         "name": "Argentina",
@@ -131,10 +131,10 @@
         "flag_url": "https://restcountries.com/v3.1/flags/uy.svg"
       }
     ],
-    "border_length_km": "16,885",
-    "inflation_rate": "4.7%",
-    "global_rank": "12th",
-    "latam_rank": "1st",
+    "border_length_km": 16885,
+    "inflation_rate": 4.7,
+    "global_rank": 12,
+    "latam_rank": 1,
     "climates": ["Tropical", "Subtropical"],
     "government_system": "Federal Republic",
     "current_leader": "Luiz Inácio Lula da Silva"
@@ -146,10 +146,10 @@
     "languages": ["es"],
     "currencies": ["CLP"],
     "economic_strengths": ["Mining", "Agriculture", "Tourism"],
-    "total_gdp": "500.0 billion USD",
-    "gdp_per_capita": "24,000 USD",
-    "population": "19.5 million",
-    "area_sq_km": "756,102",
+    "total_gdp": 500000000000,
+    "gdp_per_capita": 24000,
+    "population": 19500000,
+    "area_sq_km": 756102,
     "borders": [
       {
         "name": "Argentina",
@@ -164,10 +164,10 @@
         "flag_url": "https://restcountries.com/v3.1/flags/pe.svg"
       }
     ],
-    "border_length_km": "6,171",
-    "inflation_rate": "3.0%",
-    "global_rank": "40th",
-    "latam_rank": "4th",
+    "border_length_km": 6171,
+    "inflation_rate": 3.0,
+    "global_rank": 40,
+    "latam_rank": 4,
     "climates": ["Mediterranean", "Desert", "Tropical"],
     "government_system": "Unitary Presidential Republic",
     "current_leader": "Gabriel Boric"
@@ -179,10 +179,10 @@
     "languages": ["es"],
     "currencies": ["COP"],
     "economic_strengths": ["Oil", "Mining", "Agriculture", "Tourism"],
-    "total_gdp": "450.0 billion USD",
-    "gdp_per_capita": "9,500 USD",
-    "population": "52.5 million",
-    "area_sq_km": "1,141,748",
+    "total_gdp": 450000000000,
+    "gdp_per_capita": 9500,
+    "population": 52500000,
+    "area_sq_km": 1141748,
     "borders": [
       {
         "name": "Brasil",
@@ -205,10 +205,10 @@
         "flag_url": "https://restcountries.com/v3.1/flags/pe.svg"
       }
     ],
-    "border_length_km": "6,007",
-    "inflation_rate": "4.2%",
-    "global_rank": "34th",
-    "latam_rank": "5th",
+    "border_length_km": 6007,
+    "inflation_rate": 4.2,
+    "global_rank": 34,
+    "latam_rank": 5,
     "climates": ["Tropical", "Mountain", "Temperate"],
     "government_system": "Unitary Presidential Republic",
     "current_leader": "Gustavo Petro"
@@ -220,10 +220,10 @@
     "languages": ["es"],
     "currencies": ["CRC"],
     "economic_strengths": ["Tourism", "Agriculture", "Electronics"],
-    "total_gdp": "60.0 billion USD",
-    "gdp_per_capita": "12,000 USD",
-    "population": "5.3 million",
-    "area_sq_km": "51,100",
+    "total_gdp": 60000000000,
+    "gdp_per_capita": 12000,
+    "population": 5300000,
+    "area_sq_km": 51100,
     "borders": [
       {
         "name": "Nicaragua",
@@ -234,10 +234,10 @@
         "flag_url": "https://restcountries.com/v3.1/flags/pa.svg"
       }
     ],
-    "border_length_km": "639",
-    "inflation_rate": "2.3%",
-    "global_rank": "85th",
-    "latam_rank": "13th",
+    "border_length_km": 639,
+    "inflation_rate": 2.3,
+    "global_rank": 85,
+    "latam_rank": 13,
     "climates": ["Tropical", "Subtropical"],
     "government_system": "Presidential Republic",
     "current_leader": "Rodrigo Chaves Robles"
@@ -249,15 +249,15 @@
     "languages": ["es"],
     "currencies": ["CUP", "CUC"],
     "economic_strengths": ["Tourism", "Agriculture", "Biotechnology"],
-    "total_gdp": "100.0 billion USD",
-    "gdp_per_capita": "8,000 USD",
-    "population": "11.2 million",
-    "area_sq_km": "109,884",
+    "total_gdp": 100000000000,
+    "gdp_per_capita": 8000,
+    "population": 11200000,
+    "area_sq_km": 109884,
     "borders": [],
-    "border_length_km": "0",
-    "inflation_rate": "6.0%",
-    "global_rank": "99th",
-    "latam_rank": "17th",
+    "border_length_km": 0,
+    "inflation_rate": 6.0,
+    "global_rank": 99,
+    "latam_rank": 17,
     "climates": ["Tropical"],
     "government_system": "One-Party Socialist Republic",
     "current_leader": "Miguel Díaz-Canel"
@@ -269,10 +269,10 @@
     "languages": ["es"],
     "currencies": ["USD"],
     "economic_strengths": ["Oil", "Agriculture", "Tourism"],
-    "total_gdp": "110.0 billion USD",
-    "gdp_per_capita": "7,000 USD",
-    "population": "18.0 million",
-    "area_sq_km": "283,561",
+    "total_gdp": 110000000000,
+    "gdp_per_capita": 7000,
+    "population": 18000000,
+    "area_sq_km": 283561,
     "borders": [
       {
         "name": "Colombia",
@@ -283,10 +283,10 @@
         "flag_url": "https://restcountries.com/v3.1/flags/pe.svg"
       }
     ],
-    "border_length_km": "1,007",
-    "inflation_rate": "2.5%",
-    "global_rank": "62nd",
-    "latam_rank": "8th",
+    "border_length_km": 1007,
+    "inflation_rate": 2.5,
+    "global_rank": 62,
+    "latam_rank": 8,
     "climates": ["Tropical", "Mountain", "Temperate"],
     "government_system": "Unitary Presidential Republic",
     "current_leader": "Daniel Noboa"
@@ -298,10 +298,10 @@
     "languages": ["es"],
     "currencies": ["USD"],
     "economic_strengths": ["Textiles", "Agriculture", "Remittances"],
-    "total_gdp": "30.0 billion USD",
-    "gdp_per_capita": "4,500 USD",
-    "population": "6.5 million",
-    "area_sq_km": "21,041",
+    "total_gdp": 30000000000,
+    "gdp_per_capita": 4500,
+    "population": 6500000,
+    "area_sq_km": 21041,
     "borders": [
       {
         "name": "Honduras",
@@ -312,10 +312,10 @@
         "flag_url": "https://restcountries.com/v3.1/flags/gt.svg"
       }
     ],
-    "border_length_km": "588",
-    "inflation_rate": "3.6%",
-    "global_rank": "103rd",
-    "latam_rank": "16th",
+    "border_length_km": 588,
+    "inflation_rate": 3.6,
+    "global_rank": 103,
+    "latam_rank": 16,
     "climates": ["Tropical"],
     "government_system": "Presidential Republic",
     "current_leader": "Nayib Bukele"
@@ -327,10 +327,10 @@
     "languages": ["es"],
     "currencies": ["GTQ"],
     "economic_strengths": ["Agriculture", "Textiles", "Tourism"],
-    "total_gdp": "100.0 billion USD",
-    "gdp_per_capita": "6,000 USD",
-    "population": "19.0 million",
-    "area_sq_km": "108,889",
+    "total_gdp": 100000000000,
+    "gdp_per_capita": 6000,
+    "population": 19000000,
+    "area_sq_km": 108889,
     "borders": [
       {
         "name": "Belize",
@@ -345,10 +345,10 @@
         "flag_url": "https://restcountries.com/v3.1/flags/sv.svg"
       }
     ],
-    "border_length_km": "1,067",
-    "inflation_rate": "3.0%",
-    "global_rank": "87th",
-    "latam_rank": "15th",
+    "border_length_km": 1067,
+    "inflation_rate": 3.0,
+    "global_rank": 87,
+    "latam_rank": 15,
     "climates": ["Tropical", "Subtropical"],
     "government_system": "Presidential Republic",
     "current_leader": "Alejandro Giammattei"
@@ -360,20 +360,20 @@
     "languages": ["ht", "fr"],
     "currencies": ["HTG", "USD"],
     "economic_strengths": ["Agriculture", "Textiles", "Remittances"],
-    "total_gdp": "23.0 billion USD",
-    "gdp_per_capita": "2,500 USD",
-    "population": "11.5 million",
-    "area_sq_km": "27,750",
+    "total_gdp": 23000000000,
+    "gdp_per_capita": 2500,
+    "population": 11500000,
+    "area_sq_km": 27750,
     "borders": [
       {
         "name": "Dominican Republic",
         "flag_url": "https://restcountries.com/v3.1/flags/do.svg"
       }
     ],
-    "border_length_km": "360",
-    "inflation_rate": "10.0%",
-    "global_rank": "141st",
-    "latam_rank": "20th",
+    "border_length_km": 360,
+    "inflation_rate": 10.0,
+    "global_rank": 141,
+    "latam_rank": 20,
     "climates": ["Tropical"],
     "government_system": "Presidential Republic",
     "current_leader": "Ariel Henry"
@@ -385,10 +385,10 @@
     "languages": ["es"],
     "currencies": ["HNL"],
     "economic_strengths": ["Agriculture", "Manufacturing", "Tourism"],
-    "total_gdp": "30.0 billion USD",
-    "gdp_per_capita": "3,500 USD",
-    "population": "10.0 million",
-    "area_sq_km": "112,492",
+    "total_gdp": 30000000000,
+    "gdp_per_capita": 3500,
+    "population": 10000000,
+    "area_sq_km": 112492,
     "borders": [
       {
         "name": "Guatemala",
@@ -403,10 +403,10 @@
         "flag_url": "https://restcountries.com/v3.1/flags/ni.svg"
       }
     ],
-    "border_length_km": "1,082",
-    "inflation_rate": "4.5%",
-    "global_rank": "109th",
-    "latam_rank": "19th",
+    "border_length_km": 1082,
+    "inflation_rate": 4.5,
+    "global_rank": 109,
+    "latam_rank": 19,
     "climates": ["Tropical", "Subtropical"],
     "government_system": "Presidential Republic",
     "current_leader": "Xiomara Castro"
@@ -418,10 +418,10 @@
     "languages": ["es"],
     "currencies": ["MXN"],
     "economic_strengths": ["Manufacturing", "Agriculture", "Tourism"],
-    "total_gdp": "1.4 trillion USD",
-    "gdp_per_capita": "11,000 USD",
-    "population": "126.0 million",
-    "area_sq_km": "1,964,375",
+    "total_gdp": 1400000000000,
+    "gdp_per_capita": 11000,
+    "population": 126000000,
+    "area_sq_km": 1964375,
     "borders": [
       {
         "name": "United States",
@@ -436,10 +436,10 @@
         "flag_url": "https://restcountries.com/v3.1/flags/gt.svg"
       }
     ],
-    "border_length_km": "4,020",
-    "inflation_rate": "5.5%",
-    "global_rank": "15th",
-    "latam_rank": "2nd",
+    "border_length_km": 4020,
+    "inflation_rate": 5.5,
+    "global_rank": 15,
+    "latam_rank": 2,
     "climates": ["Tropical", "Arid", "Temperate"],
     "government_system": "Federal Republic",
     "current_leader": "Andrés Manuel López Obrador"
@@ -451,10 +451,10 @@
     "languages": ["es"],
     "currencies": ["NIO"],
     "economic_strengths": ["Agriculture", "Textiles", "Tourism"],
-    "total_gdp": "15.0 billion USD",
-    "gdp_per_capita": "2,300 USD",
-    "population": "7.0 million",
-    "area_sq_km": "130,373",
+    "total_gdp": 15000000000,
+    "gdp_per_capita": 2300,
+    "population": 7000000,
+    "area_sq_km": 130373,
     "borders": [
       {
         "name": "Honduras",
@@ -465,10 +465,10 @@
         "flag_url": "https://restcountries.com/v3.1/flags/cr.svg"
       }
     ],
-    "border_length_km": "1,146",
-    "inflation_rate": "4.0%",
-    "global_rank": "124th",
-    "latam_rank": "18th",
+    "border_length_km": 1146,
+    "inflation_rate": 4.0,
+    "global_rank": 124,
+    "latam_rank": 18,
     "climates": ["Tropical", "Subtropical"],
     "government_system": "Presidential Republic",
     "current_leader": "Daniel Ortega"
@@ -480,10 +480,10 @@
     "languages": ["es"],
     "currencies": ["PAB", "USD"],
     "economic_strengths": ["Finance", "Trade", "Tourism"],
-    "total_gdp": "70.0 billion USD",
-    "gdp_per_capita": "17,000 USD",
-    "population": "4.5 million",
-    "area_sq_km": "75,417",
+    "total_gdp": 70000000000,
+    "gdp_per_capita": 17000,
+    "population": 4500000,
+    "area_sq_km": 75417,
     "borders": [
       {
         "name": "Costa Rica",
@@ -494,10 +494,10 @@
         "flag_url": "https://restcountries.com/v3.1/flags/co.svg"
       }
     ],
-    "border_length_km": "555",
-    "inflation_rate": "2.0%",
-    "global_rank": "89th",
-    "latam_rank": "14th",
+    "border_length_km": 555,
+    "inflation_rate": 2.0,
+    "global_rank": 89,
+    "latam_rank": 14,
     "climates": ["Tropical"],
     "government_system": "Presidential Republic",
     "current_leader": "Rodolfo Aguilera"
@@ -509,10 +509,10 @@
     "languages": ["es", "gn"],
     "currencies": ["PYG"],
     "economic_strengths": ["Agriculture", "Energy", "Manufacturing"],
-    "total_gdp": "48.0 billion USD",
-    "gdp_per_capita": "6,500 USD",
-    "population": "7.0 million",
-    "area_sq_km": "406,752",
+    "total_gdp": 48000000000,
+    "gdp_per_capita": 6500,
+    "population": 7000000,
+    "area_sq_km": 406752,
     "borders": [
       {
         "name": "Argentina",
@@ -527,10 +527,10 @@
         "flag_url": "https://restcountries.com/v3.1/flags/bo.svg"
       }
     ],
-    "border_length_km": "1,750",
-    "inflation_rate": "5.5%",
-    "global_rank": "115th",
-    "latam_rank": "11th",
+    "border_length_km": 1750,
+    "inflation_rate": 5.5,
+    "global_rank": 115,
+    "latam_rank": 11,
     "climates": ["Tropical", "Subtropical"],
     "government_system": "Presidential Republic",
     "current_leader": "Santiago Peña"
@@ -542,10 +542,10 @@
     "languages": ["es", "qu", "ay"],
     "currencies": ["PEN"],
     "economic_strengths": ["Mining", "Agriculture", "Tourism"],
-    "total_gdp": "400.0 billion USD",
-    "gdp_per_capita": "12,000 USD",
-    "population": "33.0 million",
-    "area_sq_km": "1,285,216",
+    "total_gdp": 400000000000,
+    "gdp_per_capita": 12000,
+    "population": 33000000,
+    "area_sq_km": 1285216,
     "borders": [
       {
         "name": "Ecuador",
@@ -568,10 +568,10 @@
         "flag_url": "https://restcountries.com/v3.1/flags/cl.svg"
       }
     ],
-    "border_length_km": "2,500",
-    "inflation_rate": "3.5%",
-    "global_rank": "39th",
-    "latam_rank": "6th",
+    "border_length_km": 2500,
+    "inflation_rate": 3.5,
+    "global_rank": 39,
+    "latam_rank": 6,
     "climates": ["Tropical", "Arid", "Temperate"],
     "government_system": "Presidential Republic",
     "current_leader": "Dina Boluarte"
@@ -583,20 +583,20 @@
     "languages": ["es"],
     "currencies": ["DOP"],
     "economic_strengths": ["Tourism", "Agriculture", "Manufacturing"],
-    "total_gdp": "100.0 billion USD",
-    "gdp_per_capita": "8,500 USD",
-    "population": "11.0 million",
-    "area_sq_km": "48,671",
+    "total_gdp": 100000000000,
+    "gdp_per_capita": 8500,
+    "population": 11000000,
+    "area_sq_km": 48671,
     "borders": [
       {
         "name": "Haiti",
         "flag_url": "https://restcountries.com/v3.1/flags/ht.svg"
       }
     ],
-    "border_length_km": "360",
-    "inflation_rate": "4.2%",
-    "global_rank": "82nd",
-    "latam_rank": "9th",
+    "border_length_km": 360,
+    "inflation_rate": 4.2,
+    "global_rank": 82,
+    "latam_rank": 9,
     "climates": ["Tropical"],
     "government_system": "Presidential Republic",
     "current_leader": "Luis Abinader"
@@ -608,10 +608,10 @@
     "languages": ["es"],
     "currencies": ["UYU"],
     "economic_strengths": ["Agriculture", "Tourism", "Finance"],
-    "total_gdp": "80.0 billion USD",
-    "gdp_per_capita": "25,000 USD",
-    "population": "3.6 million",
-    "area_sq_km": "176,215",
+    "total_gdp": 80000000000,
+    "gdp_per_capita": 25000,
+    "population": 3600000,
+    "area_sq_km": 176215,
     "borders": [
       {
         "name": "Argentina",
@@ -622,10 +622,10 @@
         "flag_url": "https://restcountries.com/v3.1/flags/br.svg"
       }
     ],
-    "border_length_km": "1,068",
-    "inflation_rate": "7.5%",
-    "global_rank": "84th",
-    "latam_rank": "10th",
+    "border_length_km": 1068,
+    "inflation_rate": 7.5,
+    "global_rank": 84,
+    "latam_rank": 10,
     "climates": ["Temperate"],
     "government_system": "Presidential Republic",
     "current_leader": "Luis Alberto Lacalle Pou"
@@ -637,10 +637,10 @@
     "languages": ["es"],
     "currencies": ["VES"],
     "economic_strengths": ["Oil", "Mining", "Agriculture"],
-    "total_gdp": "120.0 billion USD",
-    "gdp_per_capita": "3,000 USD",
-    "population": "32.0 million",
-    "area_sq_km": "912,050",
+    "total_gdp": 120000000000,
+    "gdp_per_capita": 3000,
+    "population": 32000000,
+    "area_sq_km": 912050,
     "borders": [
       {
         "name": "Colombia",
@@ -655,10 +655,10 @@
         "flag_url": "https://restcountries.com/v3.1/flags/gy.svg"
       }
     ],
-    "border_length_km": "4,250",
-    "inflation_rate": "1,000.0%",
-    "global_rank": "64th",
-    "latam_rank": "7th",
+    "border_length_km": 4250,
+    "inflation_rate": 1000.0,
+    "global_rank": 64,
+    "latam_rank": 7,
     "climates": ["Tropical", "Arid"],
     "government_system": "Dictatorship",
     "current_leader": "Nicolás Maduro"
