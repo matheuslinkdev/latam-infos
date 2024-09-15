@@ -10,7 +10,15 @@ func main() {
 
 	r := gin.Default()
 
-	r.GET("/countries", handlers.GetAllCountries)
+		r.GET("/countries", func(c *gin.Context) {
+		sortBy := c.Query("sort_by")
+		if sortBy != "" {
+			handlers.SortCountriesBy(c)
+		} else {
+			handlers.GetAllCountries(c)
+		}
+	})
+	
 	r.GET("countries/:name", handlers.GetCountryHandler)
 
 	port := ":8081"
