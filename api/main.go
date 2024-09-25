@@ -6,13 +6,13 @@ import (
 	"github.com/gin-contrib/cors"
 	"github.com/gin-gonic/gin"
 	"github.com/matheuslinkdev/lataminfos/api/handlers"
+	"os"
 )
 
 func main() {
-
 	r := gin.Default()
 
-		r.Use(cors.New(cors.Config{
+	r.Use(cors.New(cors.Config{
 		AllowOrigins:     []string{"http://localhost:3000"},
 		AllowMethods:     []string{"GET", "POST", "PUT", "DELETE"},
 		AllowHeaders:     []string{"Origin", "Content-Type", "Accept"},
@@ -21,7 +21,7 @@ func main() {
 		MaxAge: 12 * time.Hour,
 	}))
 
-		r.GET("/countries", func(c *gin.Context) {
+	r.GET("/countries", func(c *gin.Context) {
 		sortBy := c.Query("sort_by")
 		if sortBy != "" {
 			handlers.SortCountriesBy(c)
@@ -29,10 +29,14 @@ func main() {
 			handlers.GetAllCountries(c)
 		}
 	})
-	
-	r.GET("countries/:name", handlers.GetCountryHandler)
 
-	port := ":8081"
+	r.GET("/countries/:name", handlers.GetCountryHandler)
+
+	port := os.Getenv("PORT")
+	if port == "" {
+		port = "8081"
+	}
+
 	log.Printf("Server listening on port %s", port)
-	log.Fatal(r.Run(port))
+	log.Fatal(r.Run(":" + port))
 }

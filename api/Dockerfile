@@ -11,4 +11,6 @@ WORKDIR /app
 COPY --from=builder /app/main .
 COPY data/countries.json ./data/countries.json
 
+ENV PORT=8080
+
 CMD ["./main"]
