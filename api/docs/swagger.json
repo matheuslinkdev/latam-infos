@@ -1,0 +1,135 @@
+{
+    "swagger": "2.0",
+    "info": {
+        "description": "This API provides country information and allows sorting by various parameters.",
+        "title": "LATAM Info API",
+        "contact": {},
+        "version": "1.0"
+    },
+    "host": "localhost:8081",
+    "basePath": "/",
+    "paths": {
+        "/countries": {
+            "get": {
+                "description": "Sort countries by GDP, area, population, inflation, global rank, or LATAM rank.",
+                "produces": [
+                    "application/json"
+                ],
+                "summary": "Sort countries",
+                "parameters": [
+                    {
+                        "type": "string",
+                        "description": "Sorting parameter",
+                        "name": "sort_by",
+                        "in": "query",
+                        "required": true
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "OK",
+                        "schema": {
+                            "type": "array",
+                            "items": {
+                                "$ref": "#/definitions/handlers.Country"
+                            }
+                        }
+                    },
+                    "500": {
+                        "description": "Internal Server Error",
+                        "schema": {
+                            "type": "object",
+                            "additionalProperties": {
+                                "type": "string"
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "definitions": {
+        "handlers.Country": {
+            "type": "object",
+            "properties": {
+                "area_sq_km": {
+                    "type": "integer"
+                },
+                "border_length_km": {
+                    "type": "integer"
+                },
+                "borders": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "flag_url": {
+                                "type": "string"
+                            },
+                            "name": {
+                                "type": "string"
+                            }
+                        }
+                    }
+                },
+                "capital": {
+                    "type": "string"
+                },
+                "climates": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                },
+                "currencies": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                },
+                "current_leader": {
+                    "type": "string"
+                },
+                "economic_strengths": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                },
+                "flag_url": {
+                    "type": "string"
+                },
+                "gdp_per_capita": {
+                    "type": "integer"
+                },
+                "global_rank": {
+                    "type": "integer"
+                },
+                "government_system": {
+                    "type": "string"
+                },
+                "inflation_rate": {
+                    "type": "number"
+                },
+                "languages": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                },
+                "latam_rank": {
+                    "type": "integer"
+                },
+                "name": {
+                    "type": "string"
+                },
+                "population": {
+                    "type": "integer"
+                },
+                "total_gdp": {
+                    "type": "integer"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,91 @@
+basePath: /
+definitions:
+  handlers.Country:
+    properties:
+      area_sq_km:
+        type: integer
+      border_length_km:
+        type: integer
+      borders:
+        items:
+          properties:
+            flag_url:
+              type: string
+            name:
+              type: string
+          type: object
+        type: array
+      capital:
+        type: string
+      climates:
+        items:
+          type: string
+        type: array
+      currencies:
+        items:
+          type: string
+        type: array
+      current_leader:
+        type: string
+      economic_strengths:
+        items:
+          type: string
+        type: array
+      flag_url:
+        type: string
+      gdp_per_capita:
+        type: integer
+      global_rank:
+        type: integer
+      government_system:
+        type: string
+      inflation_rate:
+        type: number
+      languages:
+        items:
+          type: string
+        type: array
+      latam_rank:
+        type: integer
+      name:
+        type: string
+      population:
+        type: integer
+      total_gdp:
+        type: integer
+    type: object
+host: localhost:8081
+info:
+  contact: {}
+  description: This API provides country information and allows sorting by various
+    parameters.
+  title: LATAM Info API
+  version: "1.0"
+paths:
+  /countries:
+    get:
+      description: Sort countries by GDP, area, population, inflation, global rank,
+        or LATAM rank.
+      parameters:
+      - description: Sorting parameter
+        in: query
+        name: sort_by
+        required: true
+        type: string
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            items:
+              $ref: '#/definitions/handlers.Country'
+            type: array
+        "500":
+          description: Internal Server Error
+          schema:
+            additionalProperties:
+              type: string
+            type: object
+      summary: Sort countries
+swagger: "2.0"

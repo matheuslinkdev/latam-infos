@@ -37,17 +37,24 @@ func sortCountries(countries []Country, sortBy string) {
 	}
 }
 
+// SortCountriesBy sorts countries based on query parameter
+// @Summary Sort countries
+// @Description Sort countries by GDP, area, population, inflation, global rank, or LATAM rank.
+// @Produce json
+// @Param sort_by query string true "Sorting parameter"
+// @Success 200 {array} Country
+// @Failure 500 {object} map[string]string
+// @Router /countries [get]
 func SortCountriesBy(c *gin.Context) {
-
 	data, err := ReadJSONFile()
 	if err != nil {
-		c.JSON(http.StatusInternalServerError, gin.H{"error": "Unable to open file"})
+		c.JSON(http.StatusInternalServerError, map[string]string{"error": "Unable to open file"})
 		return
 	}
 
 	var countries []Country
 	if err := json.Unmarshal(data, &countries); err != nil {
-		c.JSON(http.StatusInternalServerError, gin.H{"error": "Error parsing JSON"})
+		c.JSON(http.StatusInternalServerError, map[string]string{"error": "Error parsing JSON"})
 		return
 	}
 
