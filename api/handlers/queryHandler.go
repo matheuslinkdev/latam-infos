@@ -45,7 +45,7 @@ func sortCountries(countries []Country, sortBy string) {
 // @Success 200 {array} Country
 // @Failure 500 {object} map[string]string
 // @Router /countries [get]
-func SortCountriesBy(c *gin.Context) {
+func SortCountriesBy(c *gin.Context, page int, pageSize int, sortBy string) {
 	data, err := ReadJSONFile()
 	if err != nil {
 		c.JSON(http.StatusInternalServerError, map[string]string{"error": "Unable to open file"})
@@ -58,10 +58,20 @@ func SortCountriesBy(c *gin.Context) {
 		return
 	}
 
-	sortBy := c.Query("sort_by")
 	if sortBy != "" {
 		sortCountries(countries, sortBy)
 	}
 
-	c.JSON(http.StatusOK, countries)
+	start := (page - 1) * pageSize
+	end := start + pageSize
+
+	if start >= len(countries) {
+		c.JSON(http.StatusOK, []Country{})
+		return
+	}
+	if end > len(countries) {
+		end = len(countries)
+	}
+
+	c.JSON(http.StatusOK, countries[start:end])
 }

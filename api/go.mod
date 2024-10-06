@@ -1,6 +1,8 @@
 module github.com/matheuslinkdev/lataminfos/api
 
-go 1.22.6
+go 1.23
+
+toolchain go1.23.2
 
 require (
 	github.com/KyleBanks/depth v1.2.1 // indirect
@@ -36,6 +38,7 @@ require (
 	github.com/swaggo/swag v1.16.3 // indirect
 	github.com/twitchyliquid64/golang-asm v0.15.1 // indirect
 	github.com/ugorji/go/codec v1.2.12 // indirect
+	github.com/webstradev/gin-pagination v1.0.4 // indirect
 	golang.org/x/arch v0.10.0 // indirect
 	golang.org/x/crypto v0.27.0 // indirect
 	golang.org/x/net v0.29.0 // indirect

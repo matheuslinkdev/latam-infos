@@ -2,7 +2,7 @@
   {
     "name": "Argentina",
     "capital": "Buenos Aires",
-    "flag_url": "https://restcountries.com/v3.1/flags/ar.svg",
+    "flag_url": "https://flagicons.lipis.dev/flags/4x3/ar.svg",
     "languages": ["es"],
     "currencies": ["ARS"],
     "economic_strengths": ["Agriculture", "Manufacturing", "Tourism"],
@@ -13,23 +13,23 @@
     "borders": [
       {
         "name": "Bolivia",
-        "flag_url": "https://restcountries.com/v3.1/flags/bo.svg"
+        "flag_url": "https://flagicons.lipis.dev/flags/4x3/bo.svg"
       },
       {
         "name": "Brasil",
-        "flag_url": "https://restcountries.com/v3.1/flags/br.svg"
+        "flag_url": "https://flagicons.lipis.dev/flags/4x3/br.svg"
       },
       {
         "name": "Chile",
-        "flag_url": "https://restcountries.com/v3.1/flags/cl.svg"
+        "flag_url": "https://flagicons.lipis.dev/flags/4x3/cl.svg"
       },
       {
         "name": "Paraguai",
-        "flag_url": "https://restcountries.com/v3.1/flags/py.svg"
+        "flag_url": "https://flagicons.lipis.dev/flags/4x3/py.svg"
       },
       {
         "name": "Uruguai",
-        "flag_url": "https://restcountries.com/v3.1/flags/uy.svg"
+        "flag_url": "https://flagicons.lipis.dev/flags/4x3/uy.svg"
       }
     ],
     "border_length_km": 9376,
@@ -43,7 +43,7 @@
   {
     "name": "Bolivia",
     "capital": "Sucre",
-    "flag_url": "https://restcountries.com/v3.1/flags/bo.svg",
+    "flag_url": "https://flagicons.lipis.dev/flags/4x3/bo.svg",
     "languages": ["es", "qu", "ay"],
     "currencies": ["BOB"],
     "economic_strengths": ["Mining", "Agriculture", "Tourism"],
@@ -54,23 +54,23 @@
     "borders": [
       {
         "name": "Argentina",
-        "flag_url": "https://restcountries.com/v3.1/flags/ar.svg"
+        "flag_url": "https://flagicons.lipis.dev/flags/4x3/ar.svg"
       },
       {
         "name": "Brasil",
-        "flag_url": "https://restcountries.com/v3.1/flags/br.svg"
+        "flag_url": "https://flagicons.lipis.dev/flags/4x3/br.svg"
       },
       {
         "name": "Chile",
-        "flag_url": "https://restcountries.com/v3.1/flags/cl.svg"
+        "flag_url": "https://flagicons.lipis.dev/flags/4x3/cl.svg"
       },
       {
         "name": "Paraguai",
-        "flag_url": "https://restcountries.com/v3.1/flags/py.svg"
+        "flag_url": "https://flagicons.lipis.dev/flags/4x3/py.svg"
       },
       {
         "name": "Peru",
-        "flag_url": "https://restcountries.com/v3.1/flags/pe.svg"
+        "flag_url": "https://flagicons.lipis.dev/flags/4x3/pe.svg"
       }
     ],
     "border_length_km": 3400,
@@ -84,7 +84,7 @@
   {
     "name": "Brasil",
     "capital": "Brasilia",
-    "flag_url": "https://restcountries.com/v3.1/flags/br.svg",
+    "flag_url": "https://flagicons.lipis.dev/flags/4x3/br.svg",
     "languages": ["pt"],
     "currencies": ["BRL"],
     "economic_strengths": [
@@ -100,35 +100,35 @@
     "borders": [
       {
         "name": "Argentina",
-        "flag_url": "https://restcountries.com/v3.1/flags/ar.svg"
+        "flag_url": "https://flagicons.lipis.dev/flags/4x3/ar.svg"
       },
       {
         "name": "Bolivia",
-        "flag_url": "https://restcountries.com/v3.1/flags/bo.svg"
+        "flag_url": "https://flagicons.lipis.dev/flags/4x3/bo.svg"
       },
       {
         "name": "Colombia",
-        "flag_url": "https://restcountries.com/v3.1/flags/co.svg"
+        "flag_url": "https://flagicons.lipis.dev/flags/4x3/co.svg"
       },
       {
         "name": "Guyana",
-        "flag_url": "https://restcountries.com/v3.1/flags/gy.svg"
+        "flag_url": "https://flagicons.lipis.dev/flags/4x3/gy.svg"
       },
       {
         "name": "Paraguai",
-        "flag_url": "https://restcountries.com/v3.1/flags/py.svg"
+        "flag_url": "https://flagicons.lipis.dev/flags/4x3/py.svg"
       },
       {
         "name": "Peru",
-        "flag_url": "https://restcountries.com/v3.1/flags/pe.svg"
+        "flag_url": "https://flagicons.lipis.dev/flags/4x3/pe.svg"
       },
       {
         "name": "Suriname",
-        "flag_url": "https://restcountries.com/v3.1/flags/sr.svg"
+        "flag_url": "https://flagicons.lipis.dev/flags/4x3/sr.svg"
       },
       {
         "name": "Uruguai",
-        "flag_url": "https://restcountries.com/v3.1/flags/uy.svg"
+        "flag_url": "https://flagicons.lipis.dev/flags/4x3/uy.svg"
       }
     ],
     "border_length_km": 16885,
@@ -142,7 +142,7 @@
   {
     "name": "Chile",
     "capital": "Santiago",
-    "flag_url": "https://restcountries.com/v3.1/flags/cl.svg",
+    "flag_url": "https://flagicons.lipis.dev/flags/4x3/cl.svg",
     "languages": ["es"],
     "currencies": ["CLP"],
     "economic_strengths": ["Mining", "Agriculture", "Tourism"],
@@ -153,15 +153,15 @@
     "borders": [
       {
         "name": "Argentina",
-        "flag_url": "https://restcountries.com/v3.1/flags/ar.svg"
+        "flag_url": "https://flagicons.lipis.dev/flags/4x3/ar.svg"
       },
       {
         "name": "Bolivia",
-        "flag_url": "https://restcountries.com/v3.1/flags/bo.svg"
+        "flag_url": "https://flagicons.lipis.dev/flags/4x3/bo.svg"
       },
       {
         "name": "Peru",
-        "flag_url": "https://restcountries.com/v3.1/flags/pe.svg"
+        "flag_url": "https://flagicons.lipis.dev/flags/4x3/pe.svg"
       }
     ],
     "border_length_km": 6171,
@@ -175,7 +175,7 @@
   {
     "name": "Colombia",
     "capital": "Bogota",
-    "flag_url": "https://restcountries.com/v3.1/flags/co.svg",
+    "flag_url": "https://flagicons.lipis.dev/flags/4x3/co.svg",
     "languages": ["es"],
     "currencies": ["COP"],
     "economic_strengths": ["Oil", "Mining", "Agriculture", "Tourism"],
@@ -186,23 +186,23 @@
     "borders": [
       {
         "name": "Brasil",
-        "flag_url": "https://restcountries.com/v3.1/flags/br.svg"
+        "flag_url": "https://flagicons.lipis.dev/flags/4x3/br.svg"
       },
       {
         "name": "Bolivia",
-        "flag_url": "https://restcountries.com/v3.1/flags/bo.svg"
+        "flag_url": "https://flagicons.lipis.dev/flags/4x3/bo.svg"
       },
       {
         "name": "Ecuador",
-        "flag_url": "https://restcountries.com/v3.1/flags/ec.svg"
+        "flag_url": "https://flagicons.lipis.dev/flags/4x3/ec.svg"
       },
       {
         "name": "Panama",
-        "flag_url": "https://restcountries.com/v3.1/flags/pa.svg"
+        "flag_url": "https://flagicons.lipis.dev/flags/4x3/pa.svg"
       },
       {
         "name": "Peru",
-        "flag_url": "https://restcountries.com/v3.1/flags/pe.svg"
+        "flag_url": "https://flagicons.lipis.dev/flags/4x3/pe.svg"
       }
     ],
     "border_length_km": 6007,
@@ -216,7 +216,7 @@
   {
     "name": "Costa Rica",
     "capital": "San José",
-    "flag_url": "https://restcountries.com/v3.1/flags/cr.svg",
+    "flag_url": "https://flagicons.lipis.dev/flags/4x3/cr.svg",
     "languages": ["es"],
     "currencies": ["CRC"],
     "economic_strengths": ["Tourism", "Agriculture", "Electronics"],
@@ -227,11 +227,11 @@
     "borders": [
       {
         "name": "Nicaragua",
-        "flag_url": "https://restcountries.com/v3.1/flags/ni.svg"
+        "flag_url": "https://flagicons.lipis.dev/flags/4x3/ni.svg"
       },
       {
         "name": "Panama",
-        "flag_url": "https://restcountries.com/v3.1/flags/pa.svg"
+        "flag_url": "https://flagicons.lipis.dev/flags/4x3/pa.svg"
       }
     ],
     "border_length_km": 639,
@@ -245,7 +245,7 @@
   {
     "name": "Cuba",
     "capital": "Havana",
-    "flag_url": "https://restcountries.com/v3.1/flags/cu.svg",
+    "flag_url": "https://flagicons.lipis.dev/flags/4x3/cu.svg",
     "languages": ["es"],
     "currencies": ["CUP", "CUC"],
     "economic_strengths": ["Tourism", "Agriculture", "Biotechnology"],
@@ -263,9 +263,34 @@
     "current_leader": "Miguel Díaz-Canel"
   },
   {
+    "name": "Dominican Republic",
+    "capital": "Santo Domingo",
+    "flag_url": "https://flagicons.lipis.dev/flags/4x3/do.svg",
+    "languages": ["es"],
+    "currencies": ["DOP"],
+    "economic_strengths": ["Tourism", "Agriculture", "Manufacturing"],
+    "total_gdp": 100000000000,
+    "gdp_per_capita": 8500,
+    "population": 11000000,
+    "area_sq_km": 48671,
+    "borders": [
+      {
+        "name": "Haiti",
+        "flag_url": "https://flagicons.lipis.dev/flags/4x3/ht.svg"
+      }
+    ],
+    "border_length_km": 360,
+    "inflation_rate": 4.2,
+    "global_rank": 82,
+    "latam_rank": 9,
+    "climates": ["Tropical"],
+    "government_system": "Presidential Republic",
+    "current_leader": "Luis Abinader"
+  },
+  {
     "name": "Ecuador",
     "capital": "Quito",
-    "flag_url": "https://restcountries.com/v3.1/flags/ec.svg",
+    "flag_url": "https://flagicons.lipis.dev/flags/4x3/ec.svg",
     "languages": ["es"],
     "currencies": ["USD"],
     "economic_strengths": ["Oil", "Agriculture", "Tourism"],
@@ -276,11 +301,11 @@
     "borders": [
       {
         "name": "Colombia",
-        "flag_url": "https://restcountries.com/v3.1/flags/co.svg"
+        "flag_url": "https://flagicons.lipis.dev/flags/4x3/co.svg"
       },
       {
         "name": "Peru",
-        "flag_url": "https://restcountries.com/v3.1/flags/pe.svg"
+        "flag_url": "https://flagicons.lipis.dev/flags/4x3/pe.svg"
       }
     ],
     "border_length_km": 1007,
@@ -294,7 +319,7 @@
   {
     "name": "El Salvador",
     "capital": "San Salvador",
-    "flag_url": "https://restcountries.com/v3.1/flags/sv.svg",
+    "flag_url": "https://flagicons.lipis.dev/flags/4x3/sv.svg",
     "languages": ["es"],
     "currencies": ["USD"],
     "economic_strengths": ["Textiles", "Agriculture", "Remittances"],
@@ -305,11 +330,11 @@
     "borders": [
       {
         "name": "Honduras",
-        "flag_url": "https://restcountries.com/v3.1/flags/hn.svg"
+        "flag_url": "https://flagicons.lipis.dev/flags/4x3/hn.svg"
       },
       {
         "name": "Guatemala",
-        "flag_url": "https://restcountries.com/v3.1/flags/gt.svg"
+        "flag_url": "https://flagicons.lipis.dev/flags/4x3/gt.svg"
       }
     ],
     "border_length_km": 588,
@@ -323,7 +348,7 @@
   {
     "name": "Guatemala",
     "capital": "Guatemala City",
-    "flag_url": "https://restcountries.com/v3.1/flags/gt.svg",
+    "flag_url": "https://flagicons.lipis.dev/flags/4x3/gt.svg",
     "languages": ["es"],
     "currencies": ["GTQ"],
     "economic_strengths": ["Agriculture", "Textiles", "Tourism"],
@@ -334,15 +359,15 @@
     "borders": [
       {
         "name": "Belize",
-        "flag_url": "https://restcountries.com/v3.1/flags/bz.svg"
+        "flag_url": "https://flagicons.lipis.dev/flags/4x3/bz.svg"
       },
       {
         "name": "Honduras",
-        "flag_url": "https://restcountries.com/v3.1/flags/hn.svg"
+        "flag_url": "https://flagicons.lipis.dev/flags/4x3/hn.svg"
       },
       {
         "name": "El Salvador",
-        "flag_url": "https://restcountries.com/v3.1/flags/sv.svg"
+        "flag_url": "https://flagicons.lipis.dev/flags/4x3/sv.svg"
       }
     ],
     "border_length_km": 1067,
@@ -356,7 +381,7 @@
   {
     "name": "Haiti",
     "capital": "Port-au-Prince",
-    "flag_url": "https://restcountries.com/v3.1/flags/ht.svg",
+    "flag_url": "https://flagicons.lipis.dev/flags/4x3/ht.svg",
     "languages": ["ht", "fr"],
     "currencies": ["HTG", "USD"],
     "economic_strengths": ["Agriculture", "Textiles", "Remittances"],
@@ -367,7 +392,7 @@
     "borders": [
       {
         "name": "Dominican Republic",
-        "flag_url": "https://restcountries.com/v3.1/flags/do.svg"
+        "flag_url": "https://flagicons.lipis.dev/flags/4x3/do.svg"
       }
     ],
     "border_length_km": 360,
@@ -381,7 +406,7 @@
   {
     "name": "Honduras",
     "capital": "Tegucigalpa",
-    "flag_url": "https://restcountries.com/v3.1/flags/hn.svg",
+    "flag_url": "https://flagicons.lipis.dev/flags/4x3/hn.svg",
     "languages": ["es"],
     "currencies": ["HNL"],
     "economic_strengths": ["Agriculture", "Manufacturing", "Tourism"],
@@ -392,15 +417,15 @@
     "borders": [
       {
         "name": "Guatemala",
-        "flag_url": "https://restcountries.com/v3.1/flags/gt.svg"
+        "flag_url": "https://flagicons.lipis.dev/flags/4x3/gt.svg"
       },
       {
         "name": "El Salvador",
-        "flag_url": "https://restcountries.com/v3.1/flags/sv.svg"
+        "flag_url": "https://flagicons.lipis.dev/flags/4x3/sv.svg"
       },
       {
         "name": "Nicaragua",
-        "flag_url": "https://restcountries.com/v3.1/flags/ni.svg"
+        "flag_url": "https://flagicons.lipis.dev/flags/4x3/ni.svg"
       }
     ],
     "border_length_km": 1082,
@@ -414,7 +439,7 @@
   {
     "name": "Mexico",
     "capital": "Mexico City",
-    "flag_url": "https://restcountries.com/v3.1/flags/mx.svg",
+    "flag_url": "https://flagicons.lipis.dev/flags/4x3/mx.svg",
     "languages": ["es"],
     "currencies": ["MXN"],
     "economic_strengths": ["Manufacturing", "Agriculture", "Tourism"],
@@ -425,15 +450,15 @@
     "borders": [
       {
         "name": "United States",
-        "flag_url": "https://restcountries.com/v3.1/flags/us.svg"
+        "flag_url": "https://flagicons.lipis.dev/flags/4x3/us.svg"
       },
       {
         "name": "Belize",
-        "flag_url": "https://restcountries.com/v3.1/flags/bz.svg"
+        "flag_url": "https://flagicons.lipis.dev/flags/4x3/bz.svg"
       },
       {
         "name": "Guatemala",
-        "flag_url": "https://restcountries.com/v3.1/flags/gt.svg"
+        "flag_url": "https://flagicons.lipis.dev/flags/4x3/gt.svg"
       }
     ],
     "border_length_km": 4020,
@@ -447,7 +472,7 @@
   {
     "name": "Nicaragua",
     "capital": "Managua",
-    "flag_url": "https://restcountries.com/v3.1/flags/ni.svg",
+    "flag_url": "https://flagicons.lipis.dev/flags/4x3/ni.svg",
     "languages": ["es"],
     "currencies": ["NIO"],
     "economic_strengths": ["Agriculture", "Textiles", "Tourism"],
@@ -458,11 +483,11 @@
     "borders": [
       {
         "name": "Honduras",
-        "flag_url": "https://restcountries.com/v3.1/flags/hn.svg"
+        "flag_url": "https://flagicons.lipis.dev/flags/4x3/hn.svg"
       },
       {
         "name": "Costa Rica",
-        "flag_url": "https://restcountries.com/v3.1/flags/cr.svg"
+        "flag_url": "https://flagicons.lipis.dev/flags/4x3/cr.svg"
       }
     ],
     "border_length_km": 1146,
@@ -476,7 +501,7 @@
   {
     "name": "Panama",
     "capital": "Panama City",
-    "flag_url": "https://restcountries.com/v3.1/flags/pa.svg",
+    "flag_url": "https://flagicons.lipis.dev/flags/4x3/pa.svg",
     "languages": ["es"],
     "currencies": ["PAB", "USD"],
     "economic_strengths": ["Finance", "Trade", "Tourism"],
@@ -487,11 +512,11 @@
     "borders": [
       {
         "name": "Costa Rica",
-        "flag_url": "https://restcountries.com/v3.1/flags/cr.svg"
+        "flag_url": "https://flagicons.lipis.dev/flags/4x3/cr.svg"
       },
       {
         "name": "Colombia",
-        "flag_url": "https://restcountries.com/v3.1/flags/co.svg"
+        "flag_url": "https://flagicons.lipis.dev/flags/4x3/co.svg"
       }
     ],
     "border_length_km": 555,
@@ -505,7 +530,7 @@
   {
     "name": "Paraguay",
     "capital": "Asunción",
-    "flag_url": "https://restcountries.com/v3.1/flags/py.svg",
+    "flag_url": "https://flagicons.lipis.dev/flags/4x3/py.svg",
     "languages": ["es", "gn"],
     "currencies": ["PYG"],
     "economic_strengths": ["Agriculture", "Energy", "Manufacturing"],
@@ -516,15 +541,15 @@
     "borders": [
       {
         "name": "Argentina",
-        "flag_url": "https://restcountries.com/v3.1/flags/ar.svg"
+        "flag_url": "https://flagicons.lipis.dev/flags/4x3/ar.svg"
       },
       {
         "name": "Brasil",
-        "flag_url": "https://restcountries.com/v3.1/flags/br.svg"
+        "flag_url": "https://flagicons.lipis.dev/flags/4x3/br.svg"
       },
       {
         "name": "Bolivia",
-        "flag_url": "https://restcountries.com/v3.1/flags/bo.svg"
+        "flag_url": "https://flagicons.lipis.dev/flags/4x3/bo.svg"
       }
     ],
     "border_length_km": 1750,
@@ -538,7 +563,7 @@
   {
     "name": "Peru",
     "capital": "Lima",
-    "flag_url": "https://restcountries.com/v3.1/flags/pe.svg",
+    "flag_url": "https://flagicons.lipis.dev/flags/4x3/pe.svg",
     "languages": ["es", "qu", "ay"],
     "currencies": ["PEN"],
     "economic_strengths": ["Mining", "Agriculture", "Tourism"],
@@ -549,23 +574,23 @@
     "borders": [
       {
         "name": "Ecuador",
-        "flag_url": "https://restcountries.com/v3.1/flags/ec.svg"
+        "flag_url": "https://flagicons.lipis.dev/flags/4x3/ec.svg"
       },
       {
         "name": "Colombia",
-        "flag_url": "https://restcountries.com/v3.1/flags/co.svg"
+        "flag_url": "https://flagicons.lipis.dev/flags/4x3/co.svg"
       },
       {
         "name": "Brasil",
-        "flag_url": "https://restcountries.com/v3.1/flags/br.svg"
+        "flag_url": "https://flagicons.lipis.dev/flags/4x3/br.svg"
       },
       {
         "name": "Bolivia",
-        "flag_url": "https://restcountries.com/v3.1/flags/bo.svg"
+        "flag_url": "https://flagicons.lipis.dev/flags/4x3/bo.svg"
       },
       {
         "name": "Chile",
-        "flag_url": "https://restcountries.com/v3.1/flags/cl.svg"
+        "flag_url": "https://flagicons.lipis.dev/flags/4x3/cl.svg"
       }
     ],
     "border_length_km": 2500,
@@ -576,35 +601,11 @@
     "government_system": "Presidential Republic",
     "current_leader": "Dina Boluarte"
   },
-  {
-    "name": "Dominican Republic",
-    "capital": "Santo Domingo",
-    "flag_url": "https://restcountries.com/v3.1/flags/do.svg",
-    "languages": ["es"],
-    "currencies": ["DOP"],
-    "economic_strengths": ["Tourism", "Agriculture", "Manufacturing"],
-    "total_gdp": 100000000000,
-    "gdp_per_capita": 8500,
-    "population": 11000000,
-    "area_sq_km": 48671,
-    "borders": [
-      {
-        "name": "Haiti",
-        "flag_url": "https://restcountries.com/v3.1/flags/ht.svg"
-      }
-    ],
-    "border_length_km": 360,
-    "inflation_rate": 4.2,
-    "global_rank": 82,
-    "latam_rank": 9,
-    "climates": ["Tropical"],
-    "government_system": "Presidential Republic",
-    "current_leader": "Luis Abinader"
-  },
+
   {
     "name": "Uruguay",
     "capital": "Montevideo",
-    "flag_url": "https://restcountries.com/v3.1/flags/uy.svg",
+    "flag_url": "https://flagicons.lipis.dev/flags/4x3/uy.svg",
     "languages": ["es"],
     "currencies": ["UYU"],
     "economic_strengths": ["Agriculture", "Tourism", "Finance"],
@@ -615,11 +616,11 @@
     "borders": [
       {
         "name": "Argentina",
-        "flag_url": "https://restcountries.com/v3.1/flags/ar.svg"
+        "flag_url": "https://flagicons.lipis.dev/flags/4x3/ar.svg"
       },
       {
         "name": "Brasil",
-        "flag_url": "https://restcountries.com/v3.1/flags/br.svg"
+        "flag_url": "https://flagicons.lipis.dev/flags/4x3/br.svg"
       }
     ],
     "border_length_km": 1068,
@@ -633,7 +634,7 @@
   {
     "name": "Venezuela",
     "capital": "Caracas",
-    "flag_url": "https://restcountries.com/v3.1/flags/ve.svg",
+    "flag_url": "https://flagicons.lipis.dev/flags/4x3/ve.svg",
     "languages": ["es"],
     "currencies": ["VES"],
     "economic_strengths": ["Oil", "Mining", "Agriculture"],
@@ -644,15 +645,15 @@
     "borders": [
       {
         "name": "Colombia",
-        "flag_url": "https://restcountries.com/v3.1/flags/co.svg"
+        "flag_url": "https://flagicons.lipis.dev/flags/4x3/co.svg"
       },
       {
         "name": "Brasil",
-        "flag_url": "https://restcountries.com/v3.1/flags/br.svg"
+        "flag_url": "https://flagicons.lipis.dev/flags/4x3/br.svg"
       },
       {
         "name": "Guyana",
-        "flag_url": "https://restcountries.com/v3.1/flags/gy.svg"
+        "flag_url": "https://flagicons.lipis.dev/flags/4x3/gy.svg"
       }
     ],
     "border_length_km": 4250,
