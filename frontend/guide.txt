@@ -1,0 +1,13 @@
+http://localhost:8081/countries
+
+A rota /countries retorna todos os países
+
+Tambem possui um endpoint countries/:name que retorna um país específico com base no nome
+
+E possui query params como: gdp, area, population, inflation, global_rank e latam_rank, que ordenam os países com base na query passada, o uso se faz por meio do uso de /countries?sort_by=query
+
+Voce deve implementar:
+
+-Exibição de todos os países
+-Navegação para um país específico quando o usuário clica nele
+-Um select contendo todos os queryParams, que ao alterado ordena os países na tela do usuário com base no param selecionado
