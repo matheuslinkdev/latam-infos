@@ -41,24 +41,30 @@ const HomeCountryList = () => {
   if (isError) return <div>Sorry There was an Error</div>;
 
   return (
-    <>
-  <QuerySelect handleSelectChange={handleSelectChange}/>
+    <main className="flex flex-col gap-8 items-center justify-center">
+      <QuerySelect handleSelectChange={handleSelectChange} value={query} />
       <section className="flex flex-wrap justify-center items-center gap-12 p-8">
         {countries?.map((country) => (
-          <CountryCard country={country} key={country.name} isComparable={false}/>
+          <CountryCard
+            country={country}
+            key={country.name}
+            isComparable={false}
+          />
         ))}
       </section>
 
-{query != "" && (
-  <div className="pagination-controls">
-        <button onClick={decrementPage} disabled={page === 1}>
-          Previous
-        </button> 
-        <span>Page {page}</span>
-        <button onClick={incrementPage}>Next</button>
-      </div>
+      {query != "" && (
+        <div className="pagination-controls">
+          <button onClick={decrementPage} disabled={page === 1}>
+            Previous
+          </button>
+          <span>Page {page}</span>
+          <button onClick={incrementPage} disabled={page === 2}>
+            Next
+          </button>
+        </div>
       )}
-    </>
+    </main>
   );
 };
 
