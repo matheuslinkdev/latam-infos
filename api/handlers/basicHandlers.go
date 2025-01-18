@@ -7,7 +7,7 @@ import (
 	"strings"
 )
 
-func GetAllCountries(c *gin.Context, page int, pageSize int) {
+func GetAllCountries(c *gin.Context) {
 	data, err := ReadJSONFile()
 	if err != nil {
 		c.JSON(http.StatusInternalServerError, gin.H{"error": "Unable to open file"})
@@ -19,6 +19,11 @@ func GetAllCountries(c *gin.Context, page int, pageSize int) {
 		c.JSON(http.StatusInternalServerError, gin.H{"error": "Error parsing JSON"})
 		return
 	}
+
+	pageSize := 10
+	page := 1
+
+	c.JSON(http.StatusOK, countries)
 
 	start := (page - 1) * pageSize
 	end := start + pageSize

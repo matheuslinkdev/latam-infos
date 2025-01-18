@@ -38,7 +38,7 @@
     "latam_rank": 3,
     "climates": ["Temperate", "Subtropical", "Arid"],
     "government_system": "Federal Republic",
-    "current_leader": "Alberto Fernández"
+    "current_leader": "Javier Milei"
   },
   {
     "name": "Bolivia",
@@ -129,6 +129,10 @@
       {
         "name": "Uruguai",
         "flag_url": "https://flagicons.lipis.dev/flags/4x3/uy.svg"
+      },
+      {
+        "name": "Venezuela",
+        "flag_url": "https://flagicons.lipis.dev/flags/4x3/ve.svg"
       }
     ],
     "border_length_km": 16885,
@@ -195,6 +199,10 @@
       {
         "name": "Ecuador",
         "flag_url": "https://flagicons.lipis.dev/flags/4x3/ec.svg"
+      },
+      {
+        "name": "Venezuela",
+        "flag_url": "https://flagicons.lipis.dev/flags/4x3/ve.svg"
       },
       {
         "name": "Panama",

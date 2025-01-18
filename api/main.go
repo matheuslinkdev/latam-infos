@@ -50,7 +50,7 @@ func main() {
         if sortBy != "" {
             handlers.SortCountriesBy(c, page, pageSize, sortBy)
         } else {
-            handlers.GetAllCountries(c, page, pageSize)
+            handlers.GetAllCountries(c)
         }
     })
 

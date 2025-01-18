@@ -37,14 +37,6 @@ func sortCountries(countries []Country, sortBy string) {
 	}
 }
 
-// SortCountriesBy sorts countries based on query parameter
-// @Summary Sort countries
-// @Description Sort countries by GDP, area, population, inflation, global rank, or LATAM rank.
-// @Produce json
-// @Param sort_by query string true "Sorting parameter"
-// @Success 200 {array} Country
-// @Failure 500 {object} map[string]string
-// @Router /countries [get]
 func SortCountriesBy(c *gin.Context, page int, pageSize int, sortBy string) {
 	data, err := ReadJSONFile()
 	if err != nil {
